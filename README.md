@@ -6,7 +6,7 @@ Our company has been tasked with auditing the recent election to provide data in
 
 ## Election Audit Results
 
-![Deliverable_1]()
+![Deliverable_1](https://github.com/Luis-Acevedo/python_finance_election/blob/main/Resources/photos/Deliverable_1.png)
 
 - Our audit provided the following findings based on the data file that was presented to our company.
 
